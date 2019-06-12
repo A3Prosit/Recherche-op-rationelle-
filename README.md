@@ -143,13 +143,14 @@ Nb : C'est représenté sous la forme standard
 ### Graphique : Utile pour deux variables ou plus
 
 
-![](https://image.noelshack.com/fichiers/2019/24/3/1560346598-capture.png)  1 - On trace un graphe avec l'axe X et Y  correspondant aux variables
-2 - On trace les trois contraintes, pour se faire, pour chacune d'elle, on prend X = 0 (pour trouver le Y) puis Y = 0 (pour trouver le X)
-3 - On place les **points** qui croisent les différentes contraintes, qu'on appellera "**optimum**"
-4 - On hachure la zone en dessous de chacun des optimum : C'est la liste des possibilités, ou le **domaine réalisable**
-5 - On trace notre fonction initiale F(x,y) = 6x + 4y = 0). On va trouver une droite. 
-6 - En décallant cette droite, nous cherchons le dernier optimum
-7 - On retrouve les coordonnées de cet optimum, ils correspondent au MAXIMUM que l'on peut trouver :) **CAD la solution optimale**. Peut-être unique, multiple, impossible, ou infinie (si une contrainte manque)
+![](https://image.noelshack.com/fichiers/2019/24/3/1560346598-capture.png)
+  - 1 - On trace un graphe avec l'axe X et Y  correspondant aux variables
+- 2 - On trace les trois contraintes, pour se faire, pour chacune d'elle, on prend X = 0 (pour trouver le Y) puis Y = 0 (pour trouver le X)
+- 3 - On place les **points** qui croisent les différentes contraintes, qu'on appellera "**optimum**"
+- 4 - On hachure la zone en dessous de chacun des optimum : C'est la liste des possibilités, ou le **domaine réalisable**
+- 5 - On trace notre fonction initiale F(x,y) = 6x + 4y = 0). On va trouver une droite. 
+- 6 - En décallant cette droite, nous cherchons le dernier optimum
+- 7 - On retrouve les coordonnées de cet optimum, ils correspondent au MAXIMUM que l'on peut trouver :) **CAD la solution optimale**. Peut-être unique, multiple, impossible, ou infinie (si une contrainte manque)
     
 ### Simplex : Utile pour deux variables ou plus
 
@@ -169,4 +170,4 @@ On transforme la forme canonique de dualité (forme primale) en dual :
     
 
 ## Workshop
-
+ 
