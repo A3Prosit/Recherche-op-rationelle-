@@ -106,7 +106,7 @@ Comment résoudre un problème complexe avec la recherche opérationnelle ?
     
 
 ## Programmation Linéaire :
-- Problèmes d'optimisation où la fonction objectif et les contraintes sont toutes linéaires
+- Problèmes d'optimisation où la fonction objectif et les contraintes sont toutes linéaires == pas de puissance (y = ax + n)
 - Cherche maximum  ou minimum
 - Problème de programmation linéaire
 - On modélise pour trouver la solution
