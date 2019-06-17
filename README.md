@@ -92,7 +92,7 @@ Comment résoudre un problème complexe avec la recherche opérationnelle ?
 -   Exemples :
 	- Coupe du monde de rubgy (7 j pour 7places, avec les joueurs qui peuvent jouer sur plusieurs pôles)
 	- Apparetement magique : ?
-	- La barque, le loup et le chou,  la barque ne peut embarquer qu'un passager
+	- La barque, le loup et le chou, et une chèvre :   la barque ne peut embarquer qu'un passager
 	- Le problème du voyageur de commerce
 	- **Sac à dos** : Noté également KP (Knapsack Problem) :  Un sac ne peut pas supporter un certain poids avec tout ou partied'un ensemble donné d'objets ayant chacun un poid et unevaleur. Il faut maximiser la valeur sans dépasser le poids maximum. (additionner les poids)
 		- **Solution 1 :** Méthode approchée
