@@ -333,7 +333,8 @@ On transforme la forme canonique de dualité (forme primale) en dual :
 
 
 ## Programmation dynamique (Quelques mots dessus)
-    
+
+La programmation dynamique consiste à résoudre un problème en le décomposant en sous-problèmes, puis à résoudre les sous-problèmes, des plus petits aux plus grands en stockant les résultats intermédiaires. Elle a d'emblée connu un grand succès, car de nombreuses fonctions économiques de l'industrie étaient de ce type, comme la conduite et l'optimisation de procédés chimiques, ou la gestion de stocks
 
 ## Corbeille Exo
 
