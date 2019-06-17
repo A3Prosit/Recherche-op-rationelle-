@@ -170,7 +170,45 @@ forme dual
 
 min b-flèche * y-flèche tel que A^T * y-flèche >= c-flèche et y-flèche >=0
 
- 
+
+
+
+
+
+il y a 2 formes: primal et dual 
+
+On suppose que A est une matrice de format m × n et b ∈ R m
+
+soit le pb primal 
+
+min z = c^t x,
+Ax >= b,
+x >= 0
+
+la dual du pb est 
+max z = b^t y,
+A^t y < = c,
+y >= 0 
+
+On notera que, pour le problème primal, on a x ∈ R n tandis que y ∈ R m pour le dual
+
+Par exemple, considérons le problème suivant 
+min z = −x1 − x2 sous les contraintes
+ −x1 − 3x2 ≥ −3, 
+ −2x1 − x2 ≥ −2, 
+ x1, x2 ≥ 0. 
+ qui admet la solution (x1, x2) = (3/5, 4/5) et z = −7/5
+
+
+Le problème dual s’écrit sous la forme :
+ max z = −3y1 − 2y2 sous les contraintes
+ −y1 − 2y2 ≤ −1,
+ −3y1 − y2 ≤ −1,
+  y1, y2 ≥ 0.
+ qui admet la solution (y1, y2) = (1/5, 2/5) et z = −7/5
+
+Dans cet exemple, on observe que la valeur minimale du primal est égale à la valeur maximale du dual
+
 
 #### (Programmation dynamique)
     
